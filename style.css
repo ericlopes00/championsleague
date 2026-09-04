@@ -26,7 +26,6 @@ nav ul{
   display: flex;
   list-style: none;
   justify-content: center;
-  flex-wrap: wrap;
   text-indent: 22px;
   font-size: 20px;
  }
