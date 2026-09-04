@@ -41,6 +41,7 @@ nav ul{
 
 body{
     background: linear-gradient(to right,#2148f4 ,#10129d );
+    line-height: 1.8;
 }
 main{
     background-color: white;
@@ -53,6 +54,16 @@ main{
  main > *{
     margin:0px 20px 20px;
  }
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+thead th {
+  background-color: #0d1b2a;
+  color: white;
+}
  footer{
     background-color: rgb(4, 9, 101);
     text-align: center;
